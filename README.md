@@ -9,4 +9,4 @@
 ## How to use it
  1. Run the `getlinks.py` to build folders and generate .txt files which include download urls.
  2. Run the `downloadfiles.py` to read the generated .txt files and use you-get to download them.
- 3. If the size of what you want to download is to big, you may should run the `downloadfiles.py` several times and the program will begin from the files you haven't got.
+ 3. If the size of what you want to download is to big, you may run the `downloadfiles.py` several times and the program will begin from the files you haven't got.
